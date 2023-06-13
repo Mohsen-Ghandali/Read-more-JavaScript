@@ -1,0 +1,33 @@
+p {
+  width: 50%;
+  padding: 16px;
+  background-color: bisque;
+  cursor: pointer;
+}
+
+.weiterLesen {
+  font-weight: 600;
+  color: blue;
+}
+
+.weiterLesenInaktiv {
+  display: none;
+}
+
+.weiter {
+  display: none;
+}
+
+.weiterAktiv {
+  display: inline;
+}
+
+.weniger {
+  display: none;
+  font-weight: 600;
+  color: blue;
+}
+
+.wenigerAktive {
+  display: inline;
+}
